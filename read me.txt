@@ -1,2 +1,0 @@
-This file contains noise signal (under 5dB noise) and enhanced audios by our method and Reddy et al.
-More audios will be provided sooner.
